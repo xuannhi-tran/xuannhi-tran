@@ -67,6 +67,11 @@ Git · GitHub · Docker · AWS · Nginx · GitHub Actions · pytest
 - Practising data structures and algorithms
 - Looking for Software Engineering internship opportunities
 
+## Beyond Code
+Outside software, I enjoy photography, filmmaking, piano, and exploring how technology shapes the way people think and interact.
+
+I care about building things that are not only technically interesting, but also useful, understandable, and worth using.
+
 ## Find Me
 
 - Portfolio: https://portfolio-delta-azure-50.vercel.app/
