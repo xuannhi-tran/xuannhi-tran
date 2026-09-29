@@ -36,7 +36,7 @@ A full-stack web application for managing personal expenses and tracking spendin
 ### JobCompass
 A job-search assistant built during a 12-hour hackathon.
 
-**Built with:** Web technologies + AI-assisted job analysis
+**Built with:** Next.js, TypeScript, GeminiAPI, AdzunaAPI, AI/LLM
 
 - Extracts relevant skills from job descriptions
 - Helps users understand skill gaps
