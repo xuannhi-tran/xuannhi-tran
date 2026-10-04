@@ -34,7 +34,7 @@ A full-stack web application for managing personal expenses and tracking spendin
 - Used PostgreSQL for persistent data storage
 
 ### JobCompass
-A job-search assistant built during a 12-hour hackathon.
+A job-search assistant built during a 3-days hackathon.
 
 **Built with:** Next.js, TypeScript, GeminiAPI, AdzunaAPI, AI/LLM
 
