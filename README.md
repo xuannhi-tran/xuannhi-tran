@@ -18,7 +18,7 @@
 * I build practical software across backend systems and web applications, and I like working out why something breaks before I fix it.
 * Currently looking for Software Engineering internship opportunities.
 * Taking ideas from concept to deployment.
-* I enjoy photography, books and piano so please feel free to have a chat about these :)
+* I have a Tiktok channel with more than 1k followers and 100k views sharing knowledge about software engineering! (https://www.tiktok.com/@dayhoccodenao)
 
 ---
 
