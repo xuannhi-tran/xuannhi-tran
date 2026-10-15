@@ -38,7 +38,7 @@
 
 ### Tech Stack
 
-**Languages:** Python, Java, TypeScript/JavaScript, C/C++, SQL, HTML/CSS  
+**Languages:** Python, Java, TypeScript/JavaScript, SQL, HTML/CSS  
 **Frameworks:** React, Next.js, FastAPI, Django, Django REST Framework  
 **Data:** PostgreSQL, pgvector, SQLite  
 **Cloud & DevOps:** Docker, AWS EC2, GitHub Actions, Nginx, Vercel, Render, Linux  
